@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Home</div>
+    return <>Primary Project Using NextJS</>
 }
 
 export default Home
